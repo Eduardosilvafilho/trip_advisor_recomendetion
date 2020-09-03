@@ -1,5 +1,9 @@
 ## trip advisor User Segmentation
 
+### Objective
+
+the Objective of this problem is to do a user segmentation of tripadvisor users in East Asia
+
 
 ### Description
 
